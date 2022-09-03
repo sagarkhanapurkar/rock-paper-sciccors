@@ -1,0 +1,11 @@
+Function to choose a random string among three strings:
+
+Create & initialize three strings: a1 = rock, a2 = paper, a3 = scissors.
+Choose randomly among a1, a2, & a3.
+Display the randomly chosen value by console.log
+
+game logic
+
+rock === rock -> tie
+rock === scissors -> rock wins
+rock === paper -> rock loses
